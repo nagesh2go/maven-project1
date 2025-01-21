@@ -11,6 +11,7 @@
   </parent>
 
   <artifactId>Nagesh</artifactId>
+<version>nagesh-2.0</version>
   <packaging>war</packaging>
   <name>Nagesh-0.1</name>
   <description>Nagesh.</description>
